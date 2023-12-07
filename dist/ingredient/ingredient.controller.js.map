@@ -1,0 +1,1 @@
+{"version":3,"file":"ingredient.controller.js","sourceRoot":"","sources":["../../src/ingredient/ingredient.controller.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,2CAAiF;AACjF,6DAAyD;AAMlD,IAAM,oBAAoB,GAA1B,MAAM,oBAAoB;IAC7B,YAAoB,iBAAoC;QAApC,sBAAiB,GAAjB,iBAAiB,CAAmB;IAAG,CAAC;CAC/D,CAAA;AAFY,oBAAoB;IADhC,IAAA,mBAAU,EAAC,MAAM,CAAC;qCAEwB,sCAAiB;GAD/C,oBAAoB,CAEhC;AAFY,oDAAoB"}
