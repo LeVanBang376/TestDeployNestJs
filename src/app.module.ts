@@ -19,7 +19,7 @@ import { RecipeIngredientsModule } from './recipeIngredients/recipeIngredients.m
             password: 'password',
             database: 'foodtography',
             autoLoadEntities: true,
-            synchronize: true,
+            synchronize: false,
         }),
     ],
 })
