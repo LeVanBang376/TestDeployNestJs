@@ -4,7 +4,7 @@ import { ValidationPipe } from '@nestjs/common';
 import { DocumentBuilder, SwaggerModule } from '@nestjs/swagger';
 import * as fs from 'fs';
 
-async function bootstrap() {
+export async function bootstrap() {
     const app = await NestFactory.create(AppModule, { cors: true });
     app.useGlobalPipes(new ValidationPipe());
     process.env.TZ = 'ETC/Universal';
