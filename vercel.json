@@ -2,6 +2,10 @@
     "version": 2,
     "builds": [
         {
+            "src": "docker-compose.yml",
+            "use": "@vercel/docker"
+        },
+        {
             "src": "src/main.ts",
             "use": "@vercel/node"
         }
